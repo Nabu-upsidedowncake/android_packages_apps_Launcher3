@@ -156,6 +156,8 @@ android_library {
         "libGoogleFeed",
         "monet",
         "SettingsLib",
+        "bcsmartspace-google",
+        "SystemUIPluginLib",
         "view_capture"
     ],
     manifest: "AndroidManifest-common.xml",
