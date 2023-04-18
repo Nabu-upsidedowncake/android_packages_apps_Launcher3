@@ -154,6 +154,7 @@ android_library {
         "com.google.android.material_material",
         "iconloader_base",
         "libGoogleFeed",
+        "libParticles",
         "SettingsLib",
         "view_capture"
     ],
@@ -237,6 +238,13 @@ java_import {
     name: "libGoogleFeed",
     jars: [
         "libs/libGoogleFeed.jar",
+    ],
+}
+
+java_import {
+    name: "libParticles",
+    jars: [
+        "libs/libParticles.jar",
     ],
 }
 
