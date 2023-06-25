@@ -435,6 +435,7 @@ public class QuickstepLauncher extends Launcher {
         shortcuts.addAll(getSplitShortcuts());
         shortcuts.add(UNINSTALL);
         shortcuts.add(PAUSE_APPS);
+        shortcuts.add(UNINSTALL);
         shortcuts.add(WIDGETS);
         shortcuts.add(INSTALL);
         return shortcuts.stream();
