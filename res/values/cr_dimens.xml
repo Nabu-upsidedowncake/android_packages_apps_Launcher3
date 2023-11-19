@@ -26,7 +26,6 @@
     <dimen name="overview_scroll_scale">0.95</dimen>
 
     <!-- Search bar margin -->
-    <dimen name="all_apps_search_bar_margin_top">28dp</dimen>
     <dimen name="all_apps_search_bar_margin_side">38dp</dimen>
 
     <!-- Extra bottom margin for overview TaskViews -->
